@@ -30,6 +30,8 @@ sudo apt-get install -y ant default-jdk
 # Documentation:
 sudo apt-get install -y doxygen
 
+# Lapack:
+sudo apt-get install -y liblapacke-dev checkinstall
 
 # INSTALL THE LIBRARY (YOU CAN CHANGE '3.2.0' FOR THE LAST STABLE VERSION)
 
